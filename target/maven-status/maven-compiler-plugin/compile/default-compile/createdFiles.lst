@@ -1,0 +1,5 @@
+org\example\bbc\AbstractPage.class
+org\example\App.class
+org\example\bbc\AccountPage.class
+org\example\bbc\BBCMainPage.class
+org\example\bbc\LoginPage.class

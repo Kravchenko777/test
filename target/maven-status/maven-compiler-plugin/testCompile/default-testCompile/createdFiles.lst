@@ -1,0 +1,4 @@
+org\example\AppTest.class
+org\example\bbc\BBCMainPageTest.class
+org\example\bbc\AbstractTest.class
+org\example\bbc\LoginInTest.class
